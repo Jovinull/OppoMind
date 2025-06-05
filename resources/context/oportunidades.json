@@ -1,0 +1,1002 @@
+[
+  {
+    "oportunidade_id": "1001",
+    "nome_cliente": "João Silva",
+    "comentario": "Cliente quer agendar para terça à tarde"
+  },
+  {
+    "oportunidade_id": "1002",
+    "nome_cliente": "Maria Andrade",
+    "comentario": "Quer cancelar o agendamento da semana passada"
+  },
+  {
+    "oportunidade_id": "1003",
+    "nome_cliente": "Pedro Albuquerque",
+    "comentario": "Preferência por reunião via Google Meet"
+  },
+  {
+    "oportunidade_id": "1004",
+    "nome_cliente": "Lucas Martins",
+    "comentario": "Solicitou reagendamento para o dia 15"
+  },
+  {
+    "oportunidade_id": "1005",
+    "nome_cliente": "Ana Clara",
+    "comentario": "Pediu informações detalhadas sobre o serviço"
+  },
+  {
+    "oportunidade_id": "1006",
+    "nome_cliente": "Carlos Pereira",
+    "comentario": "Está esperando retorno sobre a proposta enviada"
+  },
+  {
+    "oportunidade_id": "1007",
+    "nome_cliente": "Fernanda Lima",
+    "comentario": "Pediu agendamento presencial no escritório"
+  },
+  {
+    "oportunidade_id": "1008",
+    "nome_cliente": "Rafael Souza",
+    "comentario": "Quis mudar o horário para o período da manhã"
+  },
+  {
+    "oportunidade_id": "1009",
+    "nome_cliente": "Renata Figueiredo",
+    "comentario": "Reagendou para a próxima segunda"
+  },
+  {
+    "oportunidade_id": "1010",
+    "nome_cliente": "Tiago Gomes",
+    "comentario": "Perguntou sobre o histórico de negociações anteriores"
+  },
+  {
+    "oportunidade_id": "1011",
+    "nome_cliente": "Juliana Freitas",
+    "comentario": "Gostaria de agendar uma call para tirar dúvidas sobre o contrato"
+  },
+  {
+    "oportunidade_id": "1012",
+    "nome_cliente": "Bruno Castro",
+    "comentario": "Disse que vai confirmar o horário até o fim do dia"
+  },
+  {
+    "oportunidade_id": "1013",
+    "nome_cliente": "Larissa Melo",
+    "comentario": "Solicitou envio de proposta atualizada por e-mail"
+  },
+  {
+    "oportunidade_id": "1014",
+    "nome_cliente": "Eduardo Lima",
+    "comentario": "Pediu para remarcar o atendimento para quarta de manhã"
+  },
+  {
+    "oportunidade_id": "1015",
+    "nome_cliente": "Patrícia Almeida",
+    "comentario": "Quer conversar com um consultor antes de fechar negócio"
+  },
+  {
+    "oportunidade_id": "1016",
+    "nome_cliente": "Marcelo Torres",
+    "comentario": "Reclamou de demora no retorno e pediu prioridade no atendimento"
+  },
+  {
+    "oportunidade_id": "1017",
+    "nome_cliente": "Camila Rocha",
+    "comentario": "Agradeceu o atendimento e disse que fechará ainda esta semana"
+  },
+  {
+    "oportunidade_id": "1018",
+    "nome_cliente": "Henrique Lopes",
+    "comentario": "Tem interesse em pacote anual com desconto"
+  },
+  {
+    "oportunidade_id": "1019",
+    "nome_cliente": "Tatiane Barbosa",
+    "comentario": "Pediu chamada via Zoom para incluir gestor na conversa"
+  },
+  {
+    "oportunidade_id": "1020",
+    "nome_cliente": "André Nascimento",
+    "comentario": "Solicitou cancelamento imediato do contrato"
+  },
+    {
+    "oportunidade_id": "1021",
+    "nome_cliente": "Beatriz Cunha",
+    "comentario": "Disse que só pode após as 18h durante a semana"
+  },
+  {
+    "oportunidade_id": "1022",
+    "nome_cliente": "Rodrigo Tavares",
+    "comentario": "Solicitou apresentação personalizada para o time"
+  },
+  {
+    "oportunidade_id": "1023",
+    "nome_cliente": "Isabela Monteiro",
+    "comentario": "Quer entender melhor os benefícios antes de decidir"
+  },
+  {
+    "oportunidade_id": "1024",
+    "nome_cliente": "Felipe Mendes",
+    "comentario": "Reclamou de instabilidade na plataforma"
+  },
+  {
+    "oportunidade_id": "1025",
+    "nome_cliente": "Catarina Lopes",
+    "comentario": "Disse que recebeu indicação de um amigo e quer conhecer"
+  },
+  {
+    "oportunidade_id": "1026",
+    "nome_cliente": "Danilo Ferreira",
+    "comentario": "Pediu agendamento para sexta às 10h"
+  },
+  {
+    "oportunidade_id": "1027",
+    "nome_cliente": "Aline Ramos",
+    "comentario": "Solicitou call de alinhamento com o setor financeiro"
+  },
+  {
+    "oportunidade_id": "1028",
+    "nome_cliente": "Gustavo Teixeira",
+    "comentario": "Quer renegociar os valores da proposta atual"
+  },
+  {
+    "oportunidade_id": "1029",
+    "nome_cliente": "Natália Cardoso",
+    "comentario": "Ficou de confirmar a data até amanhã"
+  },
+  {
+    "oportunidade_id": "1030",
+    "nome_cliente": "Rogério Dias",
+    "comentario": "Pediu materiais de apoio para apresentar à diretoria"
+  },
+    {
+    "oportunidade_id": "1031",
+    "nome_cliente": "Vanessa Moura",
+    "comentario": "Disse que está avaliando concorrentes antes de decidir"
+  },
+  {
+    "oportunidade_id": "1032",
+    "nome_cliente": "Diego Santana",
+    "comentario": "Pediu reunião urgente ainda hoje"
+  },
+  {
+    "oportunidade_id": "1033",
+    "nome_cliente": "Paula Ribeiro",
+    "comentario": "Quer incluir outro serviço no pacote atual"
+  },
+  {
+    "oportunidade_id": "1034",
+    "nome_cliente": "Rafael Barreto",
+    "comentario": "Perguntou se há condições especiais para MEI"
+  },
+  {
+    "oportunidade_id": "1035",
+    "nome_cliente": "Tatiana Costa",
+    "comentario": "Aguardando retorno jurídico antes de assinar contrato"
+  },
+  {
+    "oportunidade_id": "1036",
+    "nome_cliente": "Fernando Pires",
+    "comentario": "Solicitou envio de proposta em PDF para repassar à equipe"
+  },
+  {
+    "oportunidade_id": "1037",
+    "nome_cliente": "Bianca Neves",
+    "comentario": "Pediu call de apresentação para a próxima terça"
+  },
+  {
+    "oportunidade_id": "1038",
+    "nome_cliente": "Leonardo Rocha",
+    "comentario": "Gostaria de um teste gratuito antes de fechar"
+  },
+  {
+    "oportunidade_id": "1039",
+    "nome_cliente": "Cláudia Menezes",
+    "comentario": "Disse que já usou o serviço e quer voltar"
+  },
+  {
+    "oportunidade_id": "1040",
+    "nome_cliente": "Alexandre Cunha",
+    "comentario": "Reagendou o atendimento por motivo de viagem"
+  },
+    {
+    "oportunidade_id": "1041",
+    "nome_cliente": "Helena Duarte",
+    "comentario": "Pediu para ser lembrada um dia antes da reunião"
+  },
+  {
+    "oportunidade_id": "1042",
+    "nome_cliente": "Murilo Rezende",
+    "comentario": "Disse que só poderá responder após o feriado"
+  },
+  {
+    "oportunidade_id": "1043",
+    "nome_cliente": "Sofia Pacheco",
+    "comentario": "Está interessada em agendar uma demonstração técnica"
+  },
+  {
+    "oportunidade_id": "1044",
+    "nome_cliente": "Renan Oliveira",
+    "comentario": "Comentou que teve uma experiência ruim anterior e quer esclarecimentos"
+  },
+  {
+    "oportunidade_id": "1045",
+    "nome_cliente": "Érica Vasconcelos",
+    "comentario": "Quer confirmar se o plano cobre suporte 24h"
+  },
+  {
+    "oportunidade_id": "1046",
+    "nome_cliente": "Adriana Farias",
+    "comentario": "Pediu orçamento para duas unidades da empresa"
+  },
+  {
+    "oportunidade_id": "1047",
+    "nome_cliente": "Vinícius Prado",
+    "comentario": "Disse que a decisão depende da diretoria"
+  },
+  {
+    "oportunidade_id": "1048",
+    "nome_cliente": "Carolina Brito",
+    "comentario": "Solicitou reagendamento para o mês que vem"
+  },
+  {
+    "oportunidade_id": "1049",
+    "nome_cliente": "Fábio Moura",
+    "comentario": "Quer conhecer cases de clientes similares"
+  },
+  {
+    "oportunidade_id": "1050",
+    "nome_cliente": "Julio César",
+    "comentario": "Disse que fechará se conseguir condição especial de pagamento"
+  },
+    {
+    "oportunidade_id": "1051",
+    "nome_cliente": "Manuela Ribeiro",
+    "comentario": "Solicitou detalhes sobre o processo de cancelamento"
+  },
+  {
+    "oportunidade_id": "1052",
+    "nome_cliente": "Caio Fernandes",
+    "comentario": "Pediu confirmação se o atendimento pode ser feito por WhatsApp"
+  },
+  {
+    "oportunidade_id": "1053",
+    "nome_cliente": "Lorena Martins",
+    "comentario": "Quer saber se há versão de teste disponível"
+  },
+  {
+    "oportunidade_id": "1054",
+    "nome_cliente": "Thiago Assis",
+    "comentario": "Está esperando aprovação do orçamento interno"
+  },
+  {
+    "oportunidade_id": "1055",
+    "nome_cliente": "Débora Carvalho",
+    "comentario": "Pediu para ligar novamente no fim da tarde"
+  },
+  {
+    "oportunidade_id": "1056",
+    "nome_cliente": "Sandro Meireles",
+    "comentario": "Agendou retorno para discutir contrato em detalhes"
+  },
+  {
+    "oportunidade_id": "1057",
+    "nome_cliente": "Lívia Monteiro",
+    "comentario": "Está comparando propostas com outras empresas"
+  },
+  {
+    "oportunidade_id": "1058",
+    "nome_cliente": "Igor Batista",
+    "comentario": "Disse que quer implementar o serviço ainda este mês"
+  },
+  {
+    "oportunidade_id": "1059",
+    "nome_cliente": "Amanda Nogueira",
+    "comentario": "Pediu ajuda para entender os próximos passos após assinatura"
+  },
+  {
+    "oportunidade_id": "1060",
+    "nome_cliente": "Sérgio Almeida",
+    "comentario": "Confirmou presença na reunião da próxima quinta-feira"
+  },
+    {
+    "oportunidade_id": "1061",
+    "nome_cliente": "Priscila Duarte",
+    "comentario": "Gostaria de entender os diferenciais do serviço oferecido"
+  },
+  {
+    "oportunidade_id": "1062",
+    "nome_cliente": "Ricardo Matos",
+    "comentario": "Disse que está em viagem e só poderá tratar disso na semana que vem"
+  },
+  {
+    "oportunidade_id": "1063",
+    "nome_cliente": "Juliane Barros",
+    "comentario": "Pediu apresentação do plano premium com valores atualizados"
+  },
+  {
+    "oportunidade_id": "1064",
+    "nome_cliente": "Wesley Corrêa",
+    "comentario": "Reagendou a call para amanhã no mesmo horário"
+  },
+  {
+    "oportunidade_id": "1065",
+    "nome_cliente": "Tatiane Furtado",
+    "comentario": "Está esperando retorno do sócio para decidir"
+  },
+  {
+    "oportunidade_id": "1066",
+    "nome_cliente": "Murilo Cabral",
+    "comentario": "Solicitou proposta com condições para pagamento à vista"
+  },
+  {
+    "oportunidade_id": "1067",
+    "nome_cliente": "Paulo César",
+    "comentario": "Comentou que já conhece o serviço e quer retomar o contato"
+  },
+  {
+    "oportunidade_id": "1068",
+    "nome_cliente": "Viviane Mendes",
+    "comentario": "Perguntou se o atendimento também é feito aos sábados"
+  },
+  {
+    "oportunidade_id": "1069",
+    "nome_cliente": "Douglas Lima",
+    "comentario": "Pediu reunião de onboarding com o time técnico"
+  },
+  {
+    "oportunidade_id": "1070",
+    "nome_cliente": "Silvana Torres",
+    "comentario": "Está avaliando com a equipe de marketing antes de seguir"
+  },
+    {
+    "oportunidade_id": "1071",
+    "nome_cliente": "Claudio Rezende",
+    "comentario": "Solicitou um comparativo entre os planos disponíveis"
+  },
+  {
+    "oportunidade_id": "1072",
+    "nome_cliente": "Michele Tavares",
+    "comentario": "Disse que a proposta está em análise jurídica"
+  },
+  {
+    "oportunidade_id": "1073",
+    "nome_cliente": "Danilo Macedo",
+    "comentario": "Pediu uma ligação rápida para esclarecer dúvidas"
+  },
+  {
+    "oportunidade_id": "1074",
+    "nome_cliente": "Isadora Lopes",
+    "comentario": "Quer saber sobre integração com sistema interno"
+  },
+  {
+    "oportunidade_id": "1075",
+    "nome_cliente": "Roberto Nascimento",
+    "comentario": "Reclamou da lentidão no processo de onboarding"
+  },
+  {
+    "oportunidade_id": "1076",
+    "nome_cliente": "Tatiane Vieira",
+    "comentario": "Comentou que recebeu boas recomendações da empresa"
+  },
+  {
+    "oportunidade_id": "1077",
+    "nome_cliente": "Samuel Peixoto",
+    "comentario": "Quer incluir mais usuários no contrato atual"
+  },
+  {
+    "oportunidade_id": "1078",
+    "nome_cliente": "Luciana Garcia",
+    "comentario": "Está aguardando aprovação do setor financeiro"
+  },
+  {
+    "oportunidade_id": "1079",
+    "nome_cliente": "Eduarda Campos",
+    "comentario": "Pediu para enviar apresentação comercial por WhatsApp"
+  },
+  {
+    "oportunidade_id": "1080",
+    "nome_cliente": "Matheus Andrade",
+    "comentario": "Confirmou interesse e pediu para formalizar por e-mail"
+  },
+    {
+    "oportunidade_id": "1081",
+    "nome_cliente": "Bruna Silveira",
+    "comentario": "Disse que está em negociação com outro fornecedor também"
+  },
+  {
+    "oportunidade_id": "1082",
+    "nome_cliente": "Caio Azevedo",
+    "comentario": "Solicitou vídeo demonstrativo do produto"
+  },
+  {
+    "oportunidade_id": "1083",
+    "nome_cliente": "Fernanda Goulart",
+    "comentario": "Quer marcar reunião com a área técnica"
+  },
+  {
+    "oportunidade_id": "1084",
+    "nome_cliente": "Lucas Teixeira",
+    "comentario": "Pediu um lembrete por e-mail para o próximo follow-up"
+  },
+  {
+    "oportunidade_id": "1085",
+    "nome_cliente": "Juliane Castro",
+    "comentario": "Disse que prefere contato por telefone fixo"
+  },
+  {
+    "oportunidade_id": "1086",
+    "nome_cliente": "Rafael Matos",
+    "comentario": "Perguntou se há contrato de fidelidade"
+  },
+  {
+    "oportunidade_id": "1087",
+    "nome_cliente": "Letícia Ferreira",
+    "comentario": "Pediu proposta com adaptação para seu nicho de mercado"
+  },
+  {
+    "oportunidade_id": "1088",
+    "nome_cliente": "Gabriel Santos",
+    "comentario": "Solicitou reunião em grupo com todos os decisores"
+  },
+  {
+    "oportunidade_id": "1089",
+    "nome_cliente": "Nathalia Moraes",
+    "comentario": "Quer saber mais sobre o suporte pós-venda"
+  },
+  {
+    "oportunidade_id": "1090",
+    "nome_cliente": "Vinícius Martins",
+    "comentario": "Disse que só poderá avançar no mês que vem"
+  },
+  {
+    "oportunidade_id": "1091",
+    "nome_cliente": "Raquel Duarte",
+    "comentario": "Solicitou contrato com cláusulas específicas de sigilo"
+  },
+  {
+    "oportunidade_id": "1092",
+    "nome_cliente": "Anderson Lopes",
+    "comentario": "Está aguardando documentação para prosseguir"
+  },
+  {
+    "oportunidade_id": "1093",
+    "nome_cliente": "Patrícia Nunes",
+    "comentario": "Pediu mais prazo para análise interna"
+  },
+  {
+    "oportunidade_id": "1094",
+    "nome_cliente": "Ricardo Fonseca",
+    "comentario": "Disse que quer migrar de outro sistema"
+  },
+  {
+    "oportunidade_id": "1095",
+    "nome_cliente": "Camila Soares",
+    "comentario": "Reforçou urgência na entrega da proposta"
+  },
+  {
+    "oportunidade_id": "1096",
+    "nome_cliente": "Bruno Figueiredo",
+    "comentario": "Pediu inclusão de funcionalidades extras no plano atual"
+  },
+  {
+    "oportunidade_id": "1097",
+    "nome_cliente": "Lorena Bezerra",
+    "comentario": "Comentou que teve boas referências da empresa"
+  },
+  {
+    "oportunidade_id": "1098",
+    "nome_cliente": "Carlos Henrique",
+    "comentario": "Solicitou agendamento para amanhã às 14h"
+  },
+  {
+    "oportunidade_id": "1099",
+    "nome_cliente": "Jéssica Barbosa",
+    "comentario": "Quer alinhar expectativas antes de formalizar"
+  },
+  {
+    "oportunidade_id": "1100",
+    "nome_cliente": "Rodrigo Cardoso",
+    "comentario": "Pediu cancelamento do agendamento anterior e novo horário"
+  },
+    {
+    "oportunidade_id": "1101",
+    "nome_cliente": "Aline Costa",
+    "comentario": "Pediu o link para acessar a proposta novamente"
+  },
+  {
+    "oportunidade_id": "1102",
+    "nome_cliente": "César Antunes",
+    "comentario": "Quer fazer reunião de alinhamento com o time de TI"
+  },
+  {
+    "oportunidade_id": "1103",
+    "nome_cliente": "Elaine Rocha",
+    "comentario": "Solicitou informações sobre política de cancelamento"
+  },
+  {
+    "oportunidade_id": "1104",
+    "nome_cliente": "Victor Meireles",
+    "comentario": "Quer agendar reunião de onboarding para a próxima semana"
+  },
+  {
+    "oportunidade_id": "1105",
+    "nome_cliente": "Juliana Ramos",
+    "comentario": "Reforçou que precisa de urgência na resposta"
+  },
+  {
+    "oportunidade_id": "1106",
+    "nome_cliente": "Leonardo Mota",
+    "comentario": "Deseja plano personalizado para a filial da empresa"
+  },
+  {
+    "oportunidade_id": "1107",
+    "nome_cliente": "Gabriela Ferreira",
+    "comentario": "Disse que irá revisar a proposta com o departamento financeiro"
+  },
+  {
+    "oportunidade_id": "1108",
+    "nome_cliente": "Thiago Vieira",
+    "comentario": "Perguntou se há desconto para contratos anuais"
+  },
+  {
+    "oportunidade_id": "1109",
+    "nome_cliente": "Carla Mendonça",
+    "comentario": "Quer agendar conversa para detalhar a implementação"
+  },
+  {
+    "oportunidade_id": "1110",
+    "nome_cliente": "Rodrigo Pires",
+    "comentario": "Confirmou reunião e pediu que não se atrase"
+  },
+  {
+    "oportunidade_id": "1111",
+    "nome_cliente": "Vanessa Prado",
+    "comentario": "Pediu para ligar novamente depois das 17h"
+  },
+  {
+    "oportunidade_id": "1112",
+    "nome_cliente": "Maurício Sales",
+    "comentario": "Disse que está com tudo certo para assinar"
+  },
+  {
+    "oportunidade_id": "1113",
+    "nome_cliente": "Fernanda Brito",
+    "comentario": "Comentou que precisa consultar os sócios antes"
+  },
+  {
+    "oportunidade_id": "1114",
+    "nome_cliente": "Jonas Campos",
+    "comentario": "Quer saber se há versão mobile do sistema"
+  },
+  {
+    "oportunidade_id": "1115",
+    "nome_cliente": "Amanda Lacerda",
+    "comentario": "Aguardando planilha detalhada com valores"
+  },
+  {
+    "oportunidade_id": "1116",
+    "nome_cliente": "Henrique Monteiro",
+    "comentario": "Pediu call para tratar sobre migração de sistema"
+  },
+  {
+    "oportunidade_id": "1117",
+    "nome_cliente": "Sabrina Diniz",
+    "comentario": "Quer material explicativo para apresentar à equipe"
+  },
+  {
+    "oportunidade_id": "1118",
+    "nome_cliente": "Caio Neves",
+    "comentario": "Questionou sobre compatibilidade com sistema legado"
+  },
+  {
+    "oportunidade_id": "1119",
+    "nome_cliente": "Yasmin Teles",
+    "comentario": "Deseja iniciar o uso da ferramenta ainda esta semana"
+  },
+  {
+    "oportunidade_id": "1120",
+    "nome_cliente": "Alex Figueira",
+    "comentario": "Solicitou envio de contrato para assinatura digital"
+  },
+  {
+    "oportunidade_id": "1121",
+    "nome_cliente": "Rita Barreto",
+    "comentario": "Quer orientação para integrar com APIs externas"
+  },
+  {
+    "oportunidade_id": "1122",
+    "nome_cliente": "Bruno Almeida",
+    "comentario": "Pediu alteração no escopo antes de aprovar"
+  },
+  {
+    "oportunidade_id": "1123",
+    "nome_cliente": "Tânia Lopes",
+    "comentario": "Comentou que o CEO irá participar da próxima reunião"
+  },
+  {
+    "oportunidade_id": "1124",
+    "nome_cliente": "Douglas Ribeiro",
+    "comentario": "Solicitou link de pagamento para finalizar o processo"
+  },
+  {
+    "oportunidade_id": "1125",
+    "nome_cliente": "Luan Carvalho",
+    "comentario": "Quer receber proposta comparativa com concorrente"
+  },
+  {
+    "oportunidade_id": "1126",
+    "nome_cliente": "Luciana Rocha",
+    "comentario": "Disse que está disponível para reunião na sexta de manhã"
+  },
+  {
+    "oportunidade_id": "1127",
+    "nome_cliente": "Otávio Nunes",
+    "comentario": "Solicitou acesso à versão de testes por 7 dias"
+  },
+  {
+    "oportunidade_id": "1128",
+    "nome_cliente": "Beatriz Sales",
+    "comentario": "Questionou se o suporte técnico é incluso"
+  },
+  {
+    "oportunidade_id": "1129",
+    "nome_cliente": "André Vasconcelos",
+    "comentario": "Quer saber se pode incluir mais unidades no contrato"
+  },
+  {
+    "oportunidade_id": "1130",
+    "nome_cliente": "Cristiane Melo",
+    "comentario": "Pediu que a reunião seja via Microsoft Teams"
+  },
+  {
+    "oportunidade_id": "1131",
+    "nome_cliente": "Felipe Nascimento",
+    "comentario": "Solicitou call para apresentação do roadmap do produto"
+  },
+  {
+    "oportunidade_id": "1132",
+    "nome_cliente": "Giovana Martins",
+    "comentario": "Está avaliando retorno sobre proposta com o time jurídico"
+  },
+  {
+    "oportunidade_id": "1133",
+    "nome_cliente": "Marcos Souza",
+    "comentario": "Disse que deseja fechar ainda nesta semana"
+  },
+  {
+    "oportunidade_id": "1134",
+    "nome_cliente": "Natália Silva",
+    "comentario": "Quer que os dados da proposta sejam atualizados"
+  },
+  {
+    "oportunidade_id": "1135",
+    "nome_cliente": "Danilo Gomes",
+    "comentario": "Comentou que já utilizou o serviço em outro projeto"
+  },
+  {
+    "oportunidade_id": "1136",
+    "nome_cliente": "Larissa Barreto",
+    "comentario": "Pediu que o contato seja feito apenas por e-mail"
+  },
+  {
+    "oportunidade_id": "1137",
+    "nome_cliente": "Fábio Cunha",
+    "comentario": "Solicitou agendamento com o gerente de contas"
+  },
+  {
+    "oportunidade_id": "1138",
+    "nome_cliente": "Renata Lima",
+    "comentario": "Quer revalidar as condições enviadas anteriormente"
+  },
+  {
+    "oportunidade_id": "1139",
+    "nome_cliente": "Pedro Araújo",
+    "comentario": "Disse que o setor responsável irá retornar até sexta"
+  },
+  {
+    "oportunidade_id": "1140",
+    "nome_cliente": "Simone Bezerra",
+    "comentario": "Pediu informações sobre formas de pagamento"
+  },
+  {
+    "oportunidade_id": "1141",
+    "nome_cliente": "Luciano Prado",
+    "comentario": "Quer entender o tempo médio de implantação"
+  },
+  {
+    "oportunidade_id": "1142",
+    "nome_cliente": "Tatiane Matos",
+    "comentario": "Solicitou proposta no nome da empresa matriz"
+  },
+  {
+    "oportunidade_id": "1143",
+    "nome_cliente": "Brenda Rocha",
+    "comentario": "Comentou que o contrato precisa passar pelo jurídico"
+  },
+  {
+    "oportunidade_id": "1144",
+    "nome_cliente": "Gustavo Fernandes",
+    "comentario": "Quer participar de um workshop antes de decidir"
+  },
+  {
+    "oportunidade_id": "1145",
+    "nome_cliente": "Silvana Marques",
+    "comentario": "Está aguardando liberação orçamentária"
+  },
+  {
+    "oportunidade_id": "1146",
+    "nome_cliente": "Carlos Eduardo",
+    "comentario": "Solicitou uma proposta específica para startups"
+  },
+  {
+    "oportunidade_id": "1147",
+    "nome_cliente": "Túlio Castro",
+    "comentario": "Disse que gostou da proposta e vai formalizar hoje"
+  },
+  {
+    "oportunidade_id": "1148",
+    "nome_cliente": "Isadora Neves",
+    "comentario": "Pediu mais tempo para avaliar com calma"
+  },
+  {
+    "oportunidade_id": "1149",
+    "nome_cliente": "Raul Mendes",
+    "comentario": "Quer saber se existe plano de fidelização"
+  },
+  {
+    "oportunidade_id": "1150",
+    "nome_cliente": "Bianca Ribeiro",
+    "comentario": "Comentou que pode avançar se o prazo de entrega for curto"
+  },
+    {
+    "oportunidade_id": "1151",
+    "nome_cliente": "Luciana Andrade",
+    "comentario": "Solicitou alteração no cronograma de implantação"
+  },
+  {
+    "oportunidade_id": "1152",
+    "nome_cliente": "Diego Rocha",
+    "comentario": "Quer conhecer a equipe responsável pelo projeto"
+  },
+  {
+    "oportunidade_id": "1153",
+    "nome_cliente": "Tatiane Moreira",
+    "comentario": "Comentou que está em fase de planejamento orçamentário"
+  },
+  {
+    "oportunidade_id": "1154",
+    "nome_cliente": "Douglas Soares",
+    "comentario": "Pediu uma versão impressa da proposta"
+  },
+  {
+    "oportunidade_id": "1155",
+    "nome_cliente": "Adriana Nascimento",
+    "comentario": "Quer agendar reunião com o parceiro comercial"
+  },
+  {
+    "oportunidade_id": "1156",
+    "nome_cliente": "Vinícius Silva",
+    "comentario": "Disse que já recebeu propostas concorrentes"
+  },
+  {
+    "oportunidade_id": "1157",
+    "nome_cliente": "Patrícia Mendes",
+    "comentario": "Perguntou se há cláusulas de SLA no contrato"
+  },
+  {
+    "oportunidade_id": "1158",
+    "nome_cliente": "Henrique Santos",
+    "comentario": "Deseja incluir novo módulo no pacote contratado"
+  },
+  {
+    "oportunidade_id": "1159",
+    "nome_cliente": "Beatriz Oliveira",
+    "comentario": "Solicitou um cronograma detalhado com prazos de entrega"
+  },
+  {
+    "oportunidade_id": "1160",
+    "nome_cliente": "Rodrigo Cunha",
+    "comentario": "Quer revisão nos termos da proposta atual"
+  },
+  {
+    "oportunidade_id": "1161",
+    "nome_cliente": "Isabela Freitas",
+    "comentario": "Disse que está finalizando o processo com o financeiro"
+  },
+  {
+    "oportunidade_id": "1162",
+    "nome_cliente": "Eduardo Pacheco",
+    "comentario": "Comentou que gostou da demonstração"
+  },
+  {
+    "oportunidade_id": "1163",
+    "nome_cliente": "Juliana Martins",
+    "comentario": "Está interessada em plano corporativo"
+  },
+  {
+    "oportunidade_id": "1164",
+    "nome_cliente": "Fabrício Fernandes",
+    "comentario": "Solicitou atendimento prioritário"
+  },
+  {
+    "oportunidade_id": "1165",
+    "nome_cliente": "Larissa Tavares",
+    "comentario": "Quer saber mais sobre o programa de fidelidade"
+  },
+  {
+    "oportunidade_id": "1166",
+    "nome_cliente": "Samuel Nogueira",
+    "comentario": "Pediu call com o responsável técnico do projeto"
+  },
+  {
+    "oportunidade_id": "1167",
+    "nome_cliente": "Nathália Monteiro",
+    "comentario": "Reagendou conversa para a próxima quarta-feira"
+  },
+  {
+    "oportunidade_id": "1168",
+    "nome_cliente": "Danilo Rezende",
+    "comentario": "Quer negociar condições de pagamento"
+  },
+  {
+    "oportunidade_id": "1169",
+    "nome_cliente": "Sônia Ribeiro",
+    "comentario": "Solicitou documentação para análise jurídica"
+  },
+  {
+    "oportunidade_id": "1170",
+    "nome_cliente": "Wesley Lima",
+    "comentario": "Perguntou se há integrações com ERP"
+  },
+  {
+    "oportunidade_id": "1171",
+    "nome_cliente": "Raissa Lopes",
+    "comentario": "Disse que está satisfeita com o atendimento até agora"
+  },
+  {
+    "oportunidade_id": "1172",
+    "nome_cliente": "Tiago Araújo",
+    "comentario": "Pediu orçamento com escopo expandido"
+  },
+  {
+    "oportunidade_id": "1173",
+    "nome_cliente": "Lorena Dias",
+    "comentario": "Quer atendimento personalizado para sua franquia"
+  },
+  {
+    "oportunidade_id": "1174",
+    "nome_cliente": "Matheus Correia",
+    "comentario": "Disse que quer avançar ainda nesta semana"
+  },
+  {
+    "oportunidade_id": "1175",
+    "nome_cliente": "Renata Borges",
+    "comentario": "Deseja tirar dúvidas sobre cláusulas contratuais"
+  },
+  {
+    "oportunidade_id": "1176",
+    "nome_cliente": "João Batista",
+    "comentario": "Solicitou uma proposta para três unidades"
+  },
+  {
+    "oportunidade_id": "1177",
+    "nome_cliente": "Tatiane Silveira",
+    "comentario": "Está em fase de análise com o setor contábil"
+  },
+  {
+    "oportunidade_id": "1178",
+    "nome_cliente": "Caio Ribeiro",
+    "comentario": "Quer saber se há taxa de cancelamento"
+  },
+  {
+    "oportunidade_id": "1179",
+    "nome_cliente": "Marcela Costa",
+    "comentario": "Solicitou envio de proposta via WhatsApp"
+  },
+  {
+    "oportunidade_id": "1180",
+    "nome_cliente": "Gustavo Teles",
+    "comentario": "Disse que a decisão depende da matriz"
+  },
+  {
+    "oportunidade_id": "1181",
+    "nome_cliente": "Yara Fernandes",
+    "comentario": "Quer conhecer os cases de sucesso da empresa"
+  },
+  {
+    "oportunidade_id": "1182",
+    "nome_cliente": "Leandro Martins",
+    "comentario": "Pediu retorno após as 16h"
+  },
+  {
+    "oportunidade_id": "1183",
+    "nome_cliente": "Brenda Lima",
+    "comentario": "Deseja iniciar piloto com equipe reduzida"
+  },
+  {
+    "oportunidade_id": "1184",
+    "nome_cliente": "Paulo Henrique",
+    "comentario": "Solicitou adaptação do plano para demandas específicas"
+  },
+  {
+    "oportunidade_id": "1185",
+    "nome_cliente": "Cláudia Oliveira",
+    "comentario": "Comentou que vai avaliar o material com os gestores"
+  },
+  {
+    "oportunidade_id": "1186",
+    "nome_cliente": "Murilo Farias",
+    "comentario": "Perguntou se é possível parcelar em mais vezes"
+  },
+  {
+    "oportunidade_id": "1187",
+    "nome_cliente": "Alana Mendes",
+    "comentario": "Quer receber proposta com urgência"
+  },
+  {
+    "oportunidade_id": "1188",
+    "nome_cliente": "Alexandre Lopes",
+    "comentario": "Pediu versão PDF com todas as condições detalhadas"
+  },
+  {
+    "oportunidade_id": "1189",
+    "nome_cliente": "Camila Torres",
+    "comentario": "Quer conversar antes de assinar o contrato"
+  },
+  {
+    "oportunidade_id": "1190",
+    "nome_cliente": "Éder Barros",
+    "comentario": "Disse que vai fechar até sexta-feira"
+  },
+  {
+    "oportunidade_id": "1191",
+    "nome_cliente": "Natália Pires",
+    "comentario": "Solicitou acesso antecipado à plataforma"
+  },
+  {
+    "oportunidade_id": "1192",
+    "nome_cliente": "Andressa Carvalho",
+    "comentario": "Está aguardando posição do departamento de compras"
+  },
+  {
+    "oportunidade_id": "1193",
+    "nome_cliente": "Igor Matos",
+    "comentario": "Quer reunião presencial na sede da empresa"
+  },
+  {
+    "oportunidade_id": "1194",
+    "nome_cliente": "Luciana Teixeira",
+    "comentario": "Deseja repassar a proposta para o setor jurídico"
+  },
+  {
+    "oportunidade_id": "1195",
+    "nome_cliente": "Carlos Brito",
+    "comentario": "Perguntou se é possível incluir consultoria adicional"
+  },
+  {
+    "oportunidade_id": "1196",
+    "nome_cliente": "Juliana Gomes",
+    "comentario": "Quer prazos mais curtos para a entrega inicial"
+  },
+  {
+    "oportunidade_id": "1197",
+    "nome_cliente": "Fernando Almeida",
+    "comentario": "Comentou que o projeto precisa de liberação internacional"
+  },
+  {
+    "oportunidade_id": "1198",
+    "nome_cliente": "Tatiane Matias",
+    "comentario": "Pediu exemplos de projetos semelhantes já entregues"
+  },
+  {
+    "oportunidade_id": "1199",
+    "nome_cliente": "Marcelo Araújo",
+    "comentario": "Disse que vai tomar decisão após a reunião de diretoria"
+  },
+  {
+    "oportunidade_id": "1200",
+    "nome_cliente": "Sabrina Silva",
+    "comentario": "Deseja confirmar escopo final antes da assinatura"
+  }
+]
