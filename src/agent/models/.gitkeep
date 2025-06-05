@@ -1,0 +1,3 @@
+# Esta pasta armazena os modelos Rasa treinados (*.tar.gz).
+# Os arquivos gerados aqui são grandes e específicos de ambiente, por isso não devem ser versionados.
+# Esta pasta é mantida no repositório para garantir a estrutura.
